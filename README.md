@@ -1,9 +1,9 @@
-# KO
-# Release Date: December 2018
+# Amaya & Ko
 
-KO is the story of Amaya who goes on a journey to retrieve her lost brother's momento with an unlikely spirit friend. 
+Amaya & Ko is the story of Amaya who goes on a journey to retrieve her lost brother's momento with an unlikely spirit friend. 
 
-Screenshots: 
+
+## Screenshots: 
 
 Dynamic movement, art and story -
 
@@ -12,3 +12,30 @@ Dynamic movement, art and story -
 A diverse world to explore - 
 
 ![alt text](https://github.com/Ha-So/KO/blob/master/Demo%20Media/GameplaySSB.PNG)
+
+
+
+
+
+Download from Google Drive [HERE](https://drive.google.com/open?id=1X-HiwNc2iR55NkIpWHLUTcFFLAJm2LBM)
+
+Instructions on how to run:
+
+
+The game is ready to run as the file name ​ Menu.exe ​ which will be able to run on Windows OS. When run, a launcher will open where you can determine visual gameplay settings. Hit play to start.
+
+Controls
+
+A- Move Left
+
+D- Move Right
+
+S- Crouch
+
+W / Space​ - Jump
+
+Q- Create ice block
+
+E- Advance dialogue
+
+F- Ko shield
