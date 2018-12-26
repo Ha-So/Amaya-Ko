@@ -20,7 +20,7 @@ A diverse world to explore -
 Download from Google Drive 
 
 Windows .exe file: [HERE](https://drive.google.com/open?id=1KUWq1ohl4lT4CzQJctTaFrE0Gx5l0etP)
-Android APK file: [HERE](https://drive.google.com/open?id=1xbrsyorgCfq7ALXQ6n6a1GHuypE-fqlG)
+Android APK file: [HERE](https://drive.google.com/open?id=1jcbUWnAItSXu--StW4IQIYoXCmKE4saG)
 
 Instructions on how to run:
 
