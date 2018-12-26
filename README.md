@@ -17,7 +17,7 @@ A diverse world to explore -
 
 
 
-Download from Google Drive [HERE](https://drive.google.com/file/d/19ddGYfMyaPqXVTvOfBgaRmvuxubwFE59/view?usp=sharing)
+Download from Google Drive [HERE](https://drive.google.com/open?id=1X-HiwNc2iR55NkIpWHLUTcFFLAJm2LBM)
 
 Instructions on how to run:
 
