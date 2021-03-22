@@ -3,6 +3,11 @@
 Amaya & Ko is the story of Amaya who goes on a journey to retrieve her lost brother's momento with an unlikely spirit friend. 
 
 
+## Awards: 
+
+Won first place in the December 2018 Career Showcase at Oregon State University. Judging done by employers in attendance.
+
+
 ## Screenshots: 
 
 Dynamic movement, art and story -
